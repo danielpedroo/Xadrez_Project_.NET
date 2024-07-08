@@ -1,0 +1,15 @@
+D:\Projects_Back-End\Projects_NET_Desktop\repos\Xadrez_Project\Xadrez\bin\Debug\net8.0\Xadrez.exe
+D:\Projects_Back-End\Projects_NET_Desktop\repos\Xadrez_Project\Xadrez\bin\Debug\net8.0\Xadrez.deps.json
+D:\Projects_Back-End\Projects_NET_Desktop\repos\Xadrez_Project\Xadrez\bin\Debug\net8.0\Xadrez.runtimeconfig.json
+D:\Projects_Back-End\Projects_NET_Desktop\repos\Xadrez_Project\Xadrez\bin\Debug\net8.0\Xadrez.dll
+D:\Projects_Back-End\Projects_NET_Desktop\repos\Xadrez_Project\Xadrez\bin\Debug\net8.0\Xadrez.pdb
+D:\Projects_Back-End\Projects_NET_Desktop\repos\Xadrez_Project\Xadrez\obj\Debug\net8.0\Xadrez.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects_Back-End\Projects_NET_Desktop\repos\Xadrez_Project\Xadrez\obj\Debug\net8.0\Xadrez.AssemblyInfoInputs.cache
+D:\Projects_Back-End\Projects_NET_Desktop\repos\Xadrez_Project\Xadrez\obj\Debug\net8.0\Xadrez.AssemblyInfo.cs
+D:\Projects_Back-End\Projects_NET_Desktop\repos\Xadrez_Project\Xadrez\obj\Debug\net8.0\Xadrez.csproj.CoreCompileInputs.cache
+D:\Projects_Back-End\Projects_NET_Desktop\repos\Xadrez_Project\Xadrez\obj\Debug\net8.0\Xadrez.sourcelink.json
+D:\Projects_Back-End\Projects_NET_Desktop\repos\Xadrez_Project\Xadrez\obj\Debug\net8.0\Xadrez.dll
+D:\Projects_Back-End\Projects_NET_Desktop\repos\Xadrez_Project\Xadrez\obj\Debug\net8.0\refint\Xadrez.dll
+D:\Projects_Back-End\Projects_NET_Desktop\repos\Xadrez_Project\Xadrez\obj\Debug\net8.0\Xadrez.pdb
+D:\Projects_Back-End\Projects_NET_Desktop\repos\Xadrez_Project\Xadrez\obj\Debug\net8.0\Xadrez.genruntimeconfig.cache
+D:\Projects_Back-End\Projects_NET_Desktop\repos\Xadrez_Project\Xadrez\obj\Debug\net8.0\ref\Xadrez.dll
