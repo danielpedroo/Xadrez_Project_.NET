@@ -7,8 +7,8 @@ internal class Program
 
     private static void Main(string[] args)
     {
-        {
-            Posicao p = new Posicao(0,2);
+        {           
+            Posicao p = new Posicao(8,8);
             Console.WriteLine(p);
         } 
     }
