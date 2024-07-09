@@ -9,13 +9,23 @@ internal class Program
     private static void Main(string[] args)
     {
         {
-            Tabuleiro tab = new Tabuleiro(8, 8);
+            try
+            {
 
-            tab.InserirPeca(new Rei(tab, Cor.Preta), new Posicao(0, 0));
-            tab.InserirPeca(new Torre(tab, Cor.Preta), new Posicao(1, 3));
-            tab.InserirPeca(new Rei(tab, Cor.Preta), new Posicao(2, 4));
+                Tabuleiro tab = new Tabuleiro(8, 8);
 
-            Tela.ImprimirTabuleiro(tab);
+                tab.InserirPeca(new Rei(tab, Cor.Preta), new Posicao(0, 0));
+                tab.InserirPeca(new Torre(tab, Cor.Preta), new Posicao(1, 3));
+                tab.InserirPeca(new Rei(tab, Cor.Preta), new Posicao(2, 4));
+
+                Tela.ImprimirTabuleiro(tab);
+
+
+            }
+            catch (TabuleiroException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
         }
     }
 }
