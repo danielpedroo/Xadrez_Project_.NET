@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Projects_Back-End\\Projects_NET_Desktop\\repos\\Xadrez_Project\\Xadrez\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E77A498-E6B1-4B4E-A16F-70E8A4357293}|Xadrez.csproj|d:\\projects_back-end\\projects_net_desktop\\repos\\xadrez_project\\xadrez\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E77A498-E6B1-4B4E-A16F-70E8A4357293}|Xadrez.csproj|solutionrelative:tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E77A498-E6B1-4B4E-A16F-70E8A4357293}|Xadrez.csproj|d:\\projects_back-end\\projects_net_desktop\\repos\\xadrez_project\\xadrez\\tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E77A498-E6B1-4B4E-A16F-70E8A4357293}|Xadrez.csproj|solutionrelative:tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E77A498-E6B1-4B4E-A16F-70E8A4357293}|Xadrez.csproj|d:\\projects_back-end\\projects_net_desktop\\repos\\xadrez_project\\xadrez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E77A498-E6B1-4B4E-A16F-70E8A4357293}|Xadrez.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E77A498-E6B1-4B4E-A16F-70E8A4357293}|Xadrez.csproj|d:\\projects_back-end\\projects_net_desktop\\repos\\xadrez_project\\xadrez\\tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E77A498-E6B1-4B4E-A16F-70E8A4357293}|Xadrez.csproj|solutionrelative:tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E77A498-E6B1-4B4E-A16F-70E8A4357293}|Xadrez.csproj|d:\\projects_back-end\\projects_net_desktop\\repos\\xadrez_project\\xadrez\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E77A498-E6B1-4B4E-A16F-70E8A4357293}|Xadrez.csproj|solutionrelative:tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Posicao.cs",
               "DocumentMoniker": "D:\\Projects_Back-End\\Projects_NET_Desktop\\repos\\Xadrez_Project\\Xadrez\\Tabuleiro\\Posicao.cs",
               "RelativeDocumentMoniker": "Tabuleiro\\Posicao.cs",
@@ -48,13 +48,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Tela.cs",
               "DocumentMoniker": "D:\\Projects_Back-End\\Projects_NET_Desktop\\repos\\Xadrez_Project\\Xadrez\\Tela.cs",
               "RelativeDocumentMoniker": "Tela.cs",
               "ToolTip": "D:\\Projects_Back-End\\Projects_NET_Desktop\\repos\\Xadrez_Project\\Xadrez\\Tela.cs",
               "RelativeToolTip": "Tela.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T13:05:42.897Z",
               "EditorCaption": ""

@@ -12,13 +12,24 @@ internal class Program
             try
             {
 
-                Tabuleiro tab = new Tabuleiro(8, 8);
+                PartidaXadrez partidaXadrez= new PartidaXadrez();
 
-                tab.InserirPeca(new Torre(tab, Cor.Preta), new Posicao(0,0));
-                tab.InserirPeca(new Torre(tab, Cor.Preta), new Posicao(1,3));
-                tab.InserirPeca(new Rei(tab, Cor.Branca), new Posicao(0,2));
+                while(!partidaXadrez.Termino){
 
-                Tela.ImprimirTabuleiro(tab);
+                Console.Clear();
+                Tela.ImprimirTabuleiro(partidaXadrez.tab);
+                
+                Console.Write("Origem: ");
+                Posicao origem = Tela.LerPosicaoXadrez().ToPosicao();
+
+                Console.Write("Destino: ");
+                Posicao destino = Tela.LerPosicaoXadrez().ToPosicao();
+                
+                partidaXadrez.ExecutarMovimento(origem, destino);
+
+                }
+
+
 
             }
             catch (TabuleiroException ex)

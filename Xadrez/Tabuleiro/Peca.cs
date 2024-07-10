@@ -22,6 +22,8 @@ namespace Xadrez.Tabuleiro
             this.QtdeMovimentos = 0;
         }
 
-
+          public void IncrementarMovimentos(){
+            QtdeMovimentos++;
+          }
     }
 }

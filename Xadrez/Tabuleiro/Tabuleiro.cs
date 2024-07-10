@@ -41,6 +41,21 @@ namespace Xadrez.Tabuleiro
             }
         }
 
+        public Peca RemoverPeca(Posicao pos)
+        {
+            if (peca(pos) == null)
+            {
+                return null;
+            }
+            else
+            {
+                Peca aux = peca(pos);
+                aux.posicao = null;
+                pecasTab[pos.linha, pos.coluna] = null;
+                return aux;
+            }
+        }
+
         public bool PosicaoValida(Posicao pos)
         {
 
